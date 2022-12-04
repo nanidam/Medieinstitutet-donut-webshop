@@ -7,7 +7,7 @@ Nani Dam,
 Alexander Pressfelt,
 Evelina Zillman
 
-[Länk till sidan](https://nanidam.github.io/donut.-webshop-MI/)
+[Länk till sidan](https://nanidam.github.io/donut-webshop-MI/)
 
 ## **Teknikstack**
 
